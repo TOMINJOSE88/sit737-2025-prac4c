@@ -1,6 +1,6 @@
 Calculator
 
-This project is a basic calculator built using Node.js and Express. It performs simple arithmetic operations like addition, subtraction, multiplication, and division. Logging is handled using the Winston library.
+This project is a basic calculator built using Node.js and Express. It performs simple arithmetic operations like addition, subtraction, multiplication, division, Exponentiation, Square Root and Modulo. Logging is handled using the Winston library.
 
 
 
